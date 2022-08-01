@@ -1,0 +1,14 @@
+{
+  "name": "databot2.0",
+  "version": "V2.11",
+  "home_assistant_domain": "databot",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "https://raw.githubusercontent.com/arbotics-llc/databot2.0_web_flash/main/Fw/databot2.0_V2.11.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
