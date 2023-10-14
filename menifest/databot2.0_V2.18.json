@@ -3,7 +3,7 @@
   "version": "V2.18",
   "home_assistant_domain": "databot",
   "new_install_prompt_erase": false,
-  "new_install_improv_wait_time":15,
+  "new_install_improv_wait_time":0,
   "builds": [
     {
       "chipFamily": "ESP32",
